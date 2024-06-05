@@ -1,0 +1,19 @@
+
+
+.item-1{
+grid-column: 1/5;
+}
+.item-2{
+    grid-column:3/5;
+}
+.item-3{
+    grid-column: 2/4;
+}
+.grid-item {
+   
+    font-size: 1rem;
+    text-align: center;
+  }
+  /* input{
+    border-radius: 10%;
+  } */
